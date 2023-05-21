@@ -1,1 +1,2 @@
-# Scholar_buddy_Project
+# Scholar-Buddy
+implementation of HTML , CSS, JAVA Script
